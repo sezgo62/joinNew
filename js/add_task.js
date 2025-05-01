@@ -18,7 +18,7 @@ async function initAddTask() {
 
 
 /**
- * This function create/clears the template task which gets filled during the creation of a taskk
+ * This function create/clears the template task which gets filled during the creation of a task
  */
 function clearTask(parameterCounter) {
     task = { 
